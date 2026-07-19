@@ -23,5 +23,32 @@ This project analyzes chocolate sales data for **India** using Python and Jupyte
 
 ## Analysis Performed
 
-- Import Dataset
-- 
+- Import Libraries.
+- Collect Data.
+- Understand the Data.
+- Data Cleaning.
+- Filtered the dataset to analyze **India** only.
+- Exploratory Data Analysis (EDA) for India.
+    - Sales Performance.
+    - Monthly Analysis.
+    - Product Analysis.
+    - Sales Person Analysis.
+    - Yearly Growth Analysis.
+    - Boxes Shipped Analysis.
+    - Country Filter (India's Contribution to Global Chocolate Sales).
+- Saved the cleaned dataset as a CSV file.
+
+
+## How to Run
+
+1) Make sure you have tools like VS Code or Jupyter Notebook.
+2) On VS Code you have to install the python extentions.
+3) On Jupyter Notebook you can directly run on them.
+
+
+## Project Overview
+
+The objective of this project is to analyze chocolate sales data for **India**, identify sales patterns, compare product performance, and present meaningful insights using Python and data visualization techniques.
+
+
+**Author : ** Vedant Patekar
