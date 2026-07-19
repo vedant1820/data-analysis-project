@@ -51,4 +51,4 @@ This project analyzes chocolate sales data for **India** using Python and Jupyte
 The objective of this project is to analyze chocolate sales data for **India**, identify sales patterns, compare product performance, and present meaningful insights using Python and data visualization techniques.
 
 
-**Author : ** Vedant Patekar
+**Author :** Vedant Patekar
